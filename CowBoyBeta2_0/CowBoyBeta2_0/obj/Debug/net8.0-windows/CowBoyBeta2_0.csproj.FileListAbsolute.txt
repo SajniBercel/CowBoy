@@ -1,0 +1,35 @@
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.Form1.resources
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.csproj.GenerateResource.cache
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.AssemblyInfoInputs.cache
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.AssemblyInfo.cs
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.csproj.CoreCompileInputs.cache
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.exe
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.deps.json
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.runtimeconfig.json
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.dll
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.pdb
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.Properties.Resources.resources
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.dll
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\refint\CowBoyBeta2_0.dll
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.pdb
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.genruntimeconfig.cache
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\ref\CowBoyBeta2_0.dll
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.Form1.resources
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.Properties.Resources.resources
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.csproj.GenerateResource.cache
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.AssemblyInfoInputs.cache
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.AssemblyInfo.cs
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.csproj.CoreCompileInputs.cache
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.dll
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\refint\CowBoyBeta2_0.dll
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.pdb
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.exe
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.deps.json
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.runtimeconfig.json
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.dll
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\bin\Debug\net8.0-windows\CowBoyBeta2_0.pdb
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.genruntimeconfig.cache
+C:\Users\Zsvszi\Downloads\CowBoyBeta2_1\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\ref\CowBoyBeta2_0.dll
+C:\Users\Sajni Bercel\source\repos\CowBoyBeta2_0\CowBoyBeta2_0\obj\Debug\net8.0-windows\CowBoyBeta2_0.MainMenu.resources

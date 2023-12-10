@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CowBoyBeta2_0", "CowBoyBeta2_0\CowBoyBeta2_0.csproj", "{BD7D1125-2D1C-480C-8DA6-349F147472BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7D1125-2D1C-480C-8DA6-349F147472BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7D1125-2D1C-480C-8DA6-349F147472BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7D1125-2D1C-480C-8DA6-349F147472BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7D1125-2D1C-480C-8DA6-349F147472BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B04886D8-7B28-42A3-8D3F-1233E6FC2926}
+	EndGlobalSection
+EndGlobal
